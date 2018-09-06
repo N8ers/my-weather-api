@@ -1,15 +1,16 @@
 .resultCircle {
     border: 4px solid #228b22;
     border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    margin: 0 auto;
+    width: 175px;
+    height: 175px;
+    margin: 5px auto;
   }
     
   body {
     background-color: #ff6ec7;
     border: 2px solid black;
-    width: 200px;
+    width: 400px;
+    text-align: center;
     margin: 10px auto;
   }
   
@@ -19,8 +20,9 @@
     
   #result {
     text-align: center;
-    margin: 30% auto;
+    margin: 35% auto;
     background-color: white;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     border-radius: 10px;
+    width: 150px;
   }
